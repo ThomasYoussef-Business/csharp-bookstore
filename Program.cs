@@ -26,6 +26,7 @@ ISBN: {isbn}
 Numero delle pagine: {numeroPagine} pagine
 Peso del libro: {(Single)peso/1000} kg
 Dimensioni del libro: {altezza} cm x {larghezza} cm x {profondita} cm
+
 Informazioni Amazon:
 Numero di recensioni: {numeroRecensioni} recensioni
 Valutazione media: {valutazioneMedia} stelline
