@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-bookstore", "csharp-bookstore.csproj", "{A106F078-F153-4F73-B8D0-D8DC340D14AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-bookstore-bonus", "..\csharp-bookstore-bonus\csharp-bookstore-bonus.csproj", "{DFEDAC4D-A847-4805-BA5C-5B07631B2094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-bookstore-bonus", "csharp-bookstore-bonus\csharp-bookstore-bonus.csproj", "{C67296F6-8F47-422B-B6F4-7BFE93ED7438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A106F078-F153-4F73-B8D0-D8DC340D14AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A106F078-F153-4F73-B8D0-D8DC340D14AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A106F078-F153-4F73-B8D0-D8DC340D14AA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DFEDAC4D-A847-4805-BA5C-5B07631B2094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFEDAC4D-A847-4805-BA5C-5B07631B2094}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFEDAC4D-A847-4805-BA5C-5B07631B2094}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFEDAC4D-A847-4805-BA5C-5B07631B2094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67296F6-8F47-422B-B6F4-7BFE93ED7438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67296F6-8F47-422B-B6F4-7BFE93ED7438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67296F6-8F47-422B-B6F4-7BFE93ED7438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67296F6-8F47-422B-B6F4-7BFE93ED7438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
